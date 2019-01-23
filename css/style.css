@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Delius+Unicase');
+body{
+  background-color:#112233;
+  text-align:center;
+  font-family:"Delius Unicase", "cursive";
+  padding-top:10%;
+}
+h1{color:#889911;
+  font-size: 72px;
+  text-align:center;
+}
+#setTime{
+  font-size: 48px; 
+  text-align:center;
+  width:200px;
+  height:100px;
+  color:#112233;
+  background-color:#889911;
+  border-radius:20px;
+  text-align:center;
+  margin:12px;
+  }
+
+#inc,#dec{
+  width:50px;
+  border-radius:8px;
+  margin:2px;
+}
+#timer, #reset{
+  width:100px;
+  border-radius:8px;
+  margin:2px;
+}
